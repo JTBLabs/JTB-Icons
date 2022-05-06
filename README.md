@@ -21,5 +21,5 @@ A powerful icon libary that includes 5,576 different icons. With its different i
 
 <h2>Support</h2>
 <p>You don't need to donate or pay something to us. All the products and works we do is just for making you happy. They come from our hearts without any expectations. If they help you on your journey in any way that is the biggest win for us.</p>
-<p>But... if you insist to make some donations, please read this article to understand who we really are first. We think that we need more people who try to understand us rather than who help us financially.</p>
+<p>But... if you insist to make some donations, please read <a href='https://www.jtblabs.com/blog/article/an-honest-answer-to-who-we-are'>this article</a> to understand who we really are first. We think that we need more people who try to understand us rather than who help us financially.</p>
 <p>We <3 you</p>
