@@ -12,7 +12,7 @@ A powerful icon libary that includes 5,576 different icons. With its different i
 <p>You can see all the information and examples in our documentation: <a href='https://www.jtblabs.com/cdn/jtb_icons/v1.0/docs/gettingStarted'>Getting started | JTB Icons v1.0</a></p>
 
 <h2>Icon list</h2>
-<p>You can discover/search among our icons from <a href='https://www.jtblabs.com/cdn/jtb_icons/v1.0/discover/'>Discover | JTBIcons v1.0</a>.</p>
+<p>You can discover/search among our icons from <a href='https://www.jtblabs.com/cdn/jtb_icons/v1.0/discover/'>Discover | JTB Icons v1.0</a>.</p>
 
 <h2>Contribute</h2>
 <p>Like we've stated in <a href='https://www.jtblabs.com/cdn/jtb_icons/v1.0/docs/contribute'>this</a> page, you can contribute the project in many ways. :)</p>
