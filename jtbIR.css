@@ -1,11 +1,11 @@
 /*----- Define Font Face ------*/
     @font-face {
         font-family: 'jtbIR';
-        src:    url('fonts/jtbIR.eot?dkjc19');
-        src:    url('fonts/jtbIR.eot?dkjc19#iefix') format('embedded-opentype'),
-                url('fonts/jtbIR.ttf?dkjc19') format('truetype'),
-                url('fonts/jtbIR.woff?dkjc19') format('woff'),
-                url('fonts/jtbIR.svg?dkjc19#jtbIR') format('svg');
+        src:  url('fonts/jtbIR.eot?6rid5d');
+        src:  url('fonts/jtbIR.eot?6rid5d#iefix') format('embedded-opentype'),
+          url('fonts/jtbIR.ttf?6rid5d') format('truetype'),
+          url('fonts/jtbIR.woff?6rid5d') format('woff'),
+          url('fonts/jtbIR.svg?6rid5d#jtbIR') format('svg');
         font-weight: normal;
         font-style: normal;
         font-display: block;
@@ -49,6 +49,139 @@
 
 
 /*----- Define Icons ------*/
+
+.jtbIR-cloud-hail:before {
+  content: "\eb11";
+}
+.jtbIR-cloud-hail-rain:before {
+  content: "\eb12";
+}
+.jtbIR-celcius:before {
+  content: "\eb0b";
+}
+.jtbIR-cloud:before {
+  content: "\eb0c";
+}
+.jtbIR-cloud-bolt:before {
+  content: "\eb0d";
+}
+.jtbIR-cloud-downpour:before {
+  content: "\eb0e";
+}
+.jtbIR-cloud-drizzle:before {
+  content: "\eb0f";
+}
+.jtbIR-cloud-fog:before {
+  content: "\eb10";
+}
+.jtbIR-cloud-moon:before {
+  content: "\eb13";
+}
+.jtbIR-cloud-rain:before {
+  content: "\eb14";
+}
+.jtbIR-cloud-rainbow:before {
+  content: "\eb15";
+}
+.jtbIR-clouds:before {
+  content: "\eb16";
+}
+.jtbIR-clouds-moon:before {
+  content: "\eb17";
+}
+.jtbIR-cloud-snow:before {
+  content: "\eb18";
+}
+.jtbIR-cloud-snow-rain:before {
+  content: "\eb19";
+}
+.jtbIR-clouds-sun:before {
+  content: "\eb1a";
+}
+.jtbIR-cloud-sun:before {
+  content: "\eb1b";
+}
+.jtbIR-fahrenheit:before {
+  content: "\eb1c";
+}
+.jtbIR-flood:before {
+  content: "\eb1d";
+}
+.jtbIR-flood-arrow-down:before {
+  content: "\eb1e";
+}
+.jtbIR-flood-arrow-up:before {
+  content: "\eb1f";
+}
+.jtbIR-heat:before {
+  content: "\eb20";
+}
+.jtbIR-hurricane:before {
+  content: "\eb21";
+}
+.jtbIR-moon:before {
+  content: "\eb22";
+}
+.jtbIR-moon-stars:before {
+  content: "\eb23";
+}
+.jtbIR-rainbow:before {
+  content: "\eb24";
+}
+.jtbIR-snowflakes:before {
+  content: "\eb25";
+}
+.jtbIR-sun:before {
+  content: "\eb26";
+}
+.jtbIR-sun-alt:before {
+  content: "\eb27";
+}
+.jtbIR-sunset:before {
+  content: "\eb28";
+}
+.jtbIR-temperature-arrow-down:before {
+  content: "\eb29";
+}
+.jtbIR-temperature-arrow-up:before {
+  content: "\eb2a";
+}
+.jtbIR-temperature-blank:before {
+  content: "\eb2b";
+}
+.jtbIR-temperature-half:before {
+  content: "\eb2c";
+}
+.jtbIR-temperature-high:before {
+  content: "\eb2d";
+}
+.jtbIR-temperature-low:before {
+  content: "\eb2e";
+}
+.jtbIR-temperature-quarter:before {
+  content: "\eb2f";
+}
+.jtbIR-temperature-snow:before {
+  content: "\eb30";
+}
+.jtbIR-temperature-sun:before {
+  content: "\eb31";
+}
+.jtbIR-temperature-three-quarters:before {
+  content: "\eb32";
+}
+.jtbIR-tornado:before {
+  content: "\eb33";
+}
+.jtbIR-umbrella:before {
+  content: "\eb34";
+}
+.jtbIR-wind:before {
+  content: "\eb35";
+}
+.jtbIR-windsock:before {
+  content: "\eb36";
+}
 .jtbIR-4:before {
   content: "\e900";
 }
